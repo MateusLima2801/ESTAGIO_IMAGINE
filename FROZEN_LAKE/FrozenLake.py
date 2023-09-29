@@ -14,7 +14,7 @@ def example():
         
         print("Environment creation successful")
         observations = env.reset()  # noqa: F841"
-        env.render(mode='human')
+        env.render('human')
         print("Agent acting inside environment.")
         count_steps = 0
         terminal = False
