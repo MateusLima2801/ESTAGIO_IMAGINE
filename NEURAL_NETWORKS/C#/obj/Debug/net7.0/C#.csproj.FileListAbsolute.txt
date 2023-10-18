@@ -1,0 +1,14 @@
+/home/mateus/Desktop/MACHINE_LEARNING/NEURAL_NETWORKS/C#/obj/Debug/net7.0/C#.GeneratedMSBuildEditorConfig.editorconfig
+/home/mateus/Desktop/MACHINE_LEARNING/NEURAL_NETWORKS/C#/obj/Debug/net7.0/C#.AssemblyInfoInputs.cache
+/home/mateus/Desktop/MACHINE_LEARNING/NEURAL_NETWORKS/C#/obj/Debug/net7.0/C#.AssemblyInfo.cs
+/home/mateus/Desktop/MACHINE_LEARNING/NEURAL_NETWORKS/C#/obj/Debug/net7.0/C#.csproj.CoreCompileInputs.cache
+/home/mateus/Desktop/MACHINE_LEARNING/NEURAL_NETWORKS/C#/bin/Debug/net7.0/C#
+/home/mateus/Desktop/MACHINE_LEARNING/NEURAL_NETWORKS/C#/bin/Debug/net7.0/C#.deps.json
+/home/mateus/Desktop/MACHINE_LEARNING/NEURAL_NETWORKS/C#/bin/Debug/net7.0/C#.runtimeconfig.json
+/home/mateus/Desktop/MACHINE_LEARNING/NEURAL_NETWORKS/C#/bin/Debug/net7.0/C#.dll
+/home/mateus/Desktop/MACHINE_LEARNING/NEURAL_NETWORKS/C#/bin/Debug/net7.0/C#.pdb
+/home/mateus/Desktop/MACHINE_LEARNING/NEURAL_NETWORKS/C#/obj/Debug/net7.0/C#.dll
+/home/mateus/Desktop/MACHINE_LEARNING/NEURAL_NETWORKS/C#/obj/Debug/net7.0/refint/C#.dll
+/home/mateus/Desktop/MACHINE_LEARNING/NEURAL_NETWORKS/C#/obj/Debug/net7.0/C#.pdb
+/home/mateus/Desktop/MACHINE_LEARNING/NEURAL_NETWORKS/C#/obj/Debug/net7.0/C#.genruntimeconfig.cache
+/home/mateus/Desktop/MACHINE_LEARNING/NEURAL_NETWORKS/C#/obj/Debug/net7.0/ref/C#.dll
